@@ -1,0 +1,15 @@
+# main links
+main:
+  - title: "Home"
+    url: https://juandadamo.github.io/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "People"
+    url: /people/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "About"
+    url: /about/
+
