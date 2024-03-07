@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Juan D'Adamo"
+title                    : "María Verónica D'Angelo"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
 description              : "CONICET / UBA"
-url                      : "https://juandadamo.github.io"
+url                      : "https://veronicadangelo.github.io"
 # your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -82,7 +82,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : JuanDAdamo
+  username               : veronicadangelo
 facebook:
   username               :
   app_id                 :
@@ -92,7 +92,7 @@ og_image                 : # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Person
-  name                   : JuanDAdamo
+  name                   : VeronicaDAngelo
 
   links: # An array of links to social media profiles
 
@@ -106,15 +106,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Juan D'Adamo"
+  name             : "María Verónica D'Angelo"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Professor. Researcher"
   location         : "Buenos Aires, Argentina"
-  email            : "jdadamo@fi.uba.ar"
+  email            : "vdangelo@fi.uba.ar"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:jdadamo@fi.uba.ar"
+      # url: "mailto:vdangelo@fi.uba.ar"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -126,7 +126,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/juandadamo"
+      url: "https://github.com/veronicadangelo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -134,12 +134,12 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/JuanDAdamo"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+ %   - label: "Twitter"
+  %    icon: "fab fa-fw fa-twitter-square"
+   %   url: "https://twitter.com/JuanDAdamo"
+   % - label: "Facebook"
+    %  icon: "fab fa-fw fa-facebook-square"
+    %  # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/veronicadangelo"
