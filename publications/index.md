@@ -64,7 +64,7 @@ layout: default
 ✓Experimental and theoretical studies on branched electrodeposits in thin-layer cells, G. Marshall, V. Molina, G. A. González, S. Dengra and V. D’Angelo. In Eds. J. Stickney, L. Bottomley and M. Soriaga, “Thin Films: Preparation, Characterization, Application”, pp121-135, Kluwer Academic/Plenum Publishers, New York, Springer; 1 edition (2002)<br>
 
 
-## PhD Thesis (2007)
+## PhD Thesis (2005)
 M.V. D’Angelo. Flujo de soluciones de macromoléculas en estructuras porosas.
 PhD Thesis.  Universidad de Buenos Aires (Área Cs Físicas), 2005
 
