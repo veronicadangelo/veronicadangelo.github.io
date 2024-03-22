@@ -134,12 +134,12 @@ author:
 # Site Footer
 footer:
   links:
- %   - label: "Twitter"
-  %    icon: "fab fa-fw fa-twitter-square"
-   %   url: "https://twitter.com/MVerónicaDAngeloB"
-   % - label: "Facebook"
-    %  icon: "fab fa-fw fa-facebook-square"
-    %  # url:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/MVerónicaDAngeloB"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/veronicadangelo"
