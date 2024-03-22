@@ -20,7 +20,7 @@ layout: default
 
 ✓ Adama Creppy, Eric Clément, Carine Douarche, Maria Veronica D’Angelo, Harold Auradou. Effect of motility on the transport of bacteria populations through a porous medium, Physical Review Fluids 4(1), 013102 (2019) <br>
 
-✓M. Brabat, V.M. Freytes, M.A. Cachile, M.V.D'Angelo. Transporte de partículas no trazadoras en flujos simples, Anales AFA Vol. 29 Nro.3, pp  83-88 (2018)<br>
+✓M. Brabat, V.M. Freytes, M.A. Cachile, M.V.D'Angelo. Transporte de partículas no trazadoras en flujos simples, Anales AFA Vol. 29 Nro.3, pp  83-88 (2018) <br>
 
 ✓A. G. Monastra, M. F. Carusela, M. V. D'Angelo, L. Bruno. Filament instability under constant loads, IOP Conf. Series: Journal of Physics: Conf. Series 1012, p. 012010 (2018) <br>
 
