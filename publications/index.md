@@ -56,6 +56,7 @@ layout: default
 
 ✓ S.Ponce Dawson, M.V.D’Angelo, J.Pearson . Towards a classification of excitable reaction-diffusion systems , Phys.Lett.A, 265, 5-6, pp 346-352 Elsevier, Amsterdam (2000) <br>
 </p>
+
 ## Book chapter
 
 ✓ FUNCIONALIZAÇÃO DE SUPERFÍCIES DE ALUMÍNIO PARA RETENÇÃO DE CÁTIONS FUNCIONALIZACIÓN DE SUPERFICIES DE ALUMINIO PARA RETENCIÓN DE CATIONES Cecilia Costa, Sonia Lustig, María Claudia Marchi, Virginia Diz, María Verónica D’Angelo, Graciela Alicia González - Book: SÍNTESE DE MATERIAIS E APLICAÇÃO DE PROCESSOS DE SEPARAÇÃO EM ÁGUAS E SOLUÇÕES AQUOSAS INDUSTRIAIS SÍNTESIS DE MATERIALES Y APLICACIÓN DE PROCESOS DE SEPARACIÓN EN AGUAS Y SOLUCIONES ACUOSAS INDUSTRIALES.: Andréa Moura Bernardes. - São Leopoldo: Trajetos Editorial. 2018. p8 – 22 (2018)<br>
