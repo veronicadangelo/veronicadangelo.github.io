@@ -54,7 +54,7 @@ layout: default
 
 ✓ M. V. D´Angelo, R. Chertcoff, M. Rosen. Trapping Phenomena in a flow of polymer solution, Int. J. Heat and Technology, Vol 221-n.1, pp, 73-76, Edizioni ETS, Pisa, (2003). <br>
 
-✓ S.Ponce Dawson, M.V.D’Angelo, J.Pearson . Towards a classification of excitable reaction-diffusion systems , Phys.Lett.A, 265, 5-6, pp 346-352 Elsevier, Amsterdam (2000)
+✓ S.Ponce Dawson, M.V.D’Angelo, J.Pearson . Towards a classification of excitable reaction-diffusion systems , Phys.Lett.A, 265, 5-6, pp 346-352 Elsevier, Amsterdam (2000) <br>
 
 </p>
 ## Book chapter
