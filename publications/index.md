@@ -62,9 +62,10 @@ layout: default
 ✓ FUNCIONALIZAÇÃO DE SUPERFÍCIES DE ALUMÍNIO PARA RETENÇÃO DE CÁTIONS FUNCIONALIZACIÓN DE SUPERFICIES DE ALUMINIO PARA RETENCIÓN DE CATIONES Cecilia Costa, Sonia Lustig, María Claudia Marchi, Virginia Diz, María Verónica D’Angelo, Graciela Alicia González - Book: SÍNTESE DE MATERIAIS E APLICAÇÃO DE PROCESSOS DE SEPARAÇÃO EM ÁGUAS E SOLUÇÕES AQUOSAS INDUSTRIAIS SÍNTESIS DE MATERIALES Y APLICACIÓN DE PROCESOS DE SEPARACIÓN EN AGUAS Y SOLUCIONES ACUOSAS INDUSTRIALES.: Andréa Moura Bernardes. - São Leopoldo: Trajetos Editorial. 2018. p8 – 22 (2018)<br>
 
 ✓Experimental and theoretical studies on branched electrodeposits in thin-layer cells, G. Marshall, V. Molina, G. A. González, S. Dengra and V. D’Angelo. In Eds. J. Stickney, L. Bottomley and M. Soriaga, “Thin Films: Preparation, Characterization, Application”, pp121-135, Kluwer Academic/Plenum Publishers, New York, Springer; 1 edition (2002)<br>
-
 </p>
+
 ## PhD Thesis (2005)
+
 M.V. D’Angelo. Flujo de soluciones de macromoléculas en estructuras porosas.
 PhD Thesis.  Universidad de Buenos Aires (Área Cs Físicas), 2005
 
