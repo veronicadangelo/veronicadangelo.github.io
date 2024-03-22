@@ -69,8 +69,6 @@ layout: default
 M.V. D’Angelo. Flujo de soluciones de macromoléculas en estructuras porosas.
 PhD Thesis.  Universidad de Buenos Aires (Área Cs Físicas), 2005
 
-</p>
-
 
 
 
