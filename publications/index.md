@@ -5,8 +5,7 @@ layout: default
 
 # Publications
 ## Articles
-<p style="font-family:Papyrus; font-size:1em;text-align-last: left;">
-<p style="font-family:Papyrus; font-size:1em;text-align-last: left;">
+
 
   ✓ M.V. D’Angelo, L. Pauchard, H. Auradou, B. Darbois Texier. Shaping gels and gels mixture to create helices, Physics of Fluids 34(7), 077116 (2022) <br>
 
