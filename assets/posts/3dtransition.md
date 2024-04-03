@@ -2,7 +2,7 @@
 excrpts: Proposals
 layout: posts
 ---
-![](/assets/images/encabezado_lfd.png)
+![](/assets/images/encabezado_gmp.png)
 ### On Hydrodynamics past an inclined plate of finite span
 #### Director: Juan D'Adamo
 ![](/assets/images/inclined_plate.png)
