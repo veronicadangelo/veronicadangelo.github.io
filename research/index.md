@@ -3,7 +3,7 @@ title: "Research"
 layout: default
 ---
 |-----------------------|-------|
-| **Transport of flexible fibres in model porous media:**: 
+| **Transport of flexible fibres in model porous media:**:  
 Acá ponemos texto
 | <video width="480" height="320" autoplay loop controls="controls"><source src='./flexible_flap.mp4' type="video/mp4"></video>|
 | **Electrohydrodynamics**:  | <video width="480" height="320" autoplay loop controls="controls"><source src='./dbd_starting.mp4' type="video/mp4"></video>|
