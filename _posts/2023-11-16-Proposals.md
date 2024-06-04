@@ -10,4 +10,4 @@ excrpts: Proposals
 
 - [Control of roll stability in ships.](/assets/posts/roll_stab)
 
-- Propulsion Intermittency for Rotors in a Marine Engineering Channel.
+
