@@ -2,11 +2,11 @@
 excrpts: Proposals
 ---
 
-## Stages at LFD / IRL
+## Stages at GMP / IRL2027 IFADyFE
 
 - [Drag Reduction in wakes through flexible plates.](/assets/posts/flapwake)
 
-- [3D Transition and Aspect Ratio for the Wake of Flat Plates](/assets/posts/3dtransition)
+- [Study of a bubble rissing in a channel with periodic passive excitation.](/assets/posts/3dtransition)
 
 - [Control of roll stability in ships.](/assets/posts/roll_stab)
 
